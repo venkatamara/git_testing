@@ -2,6 +2,7 @@
 import os
 import sys
 
+##asdasda
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'git_testing.settings')
     try:
