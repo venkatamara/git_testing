@@ -4,6 +4,7 @@ import sys
 
 ##asdasda
 #testing
+# Branch creation test
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'git_testing.settings')
     try:
